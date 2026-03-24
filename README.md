@@ -15,6 +15,8 @@
 | Angular Dev Tutorial | https://angular.dev/tutorials | Interaktive Tutorials |
 | RxJS Docs | https://rxjs.dev | Dokumentation für Reaktive Programmierung |
 | TypeScript Docs | https://www.typescriptlang.org/docs | TypeScript Grundlagen |
+| Angular Material | https://material.angular.io | UI-Komponenten-Bibliothek |
+| NgRx Docs | https://ngrx.io/docs | State Management |
 
 ---
 
@@ -37,20 +39,28 @@
 | 13 | Lifecycle Hooks | [13_Lifecycle_Hooks.md](./09_Lifecycle_Hooks/13_Lifecycle_Hooks.md) | 1h |
 | 14 | State Management (NgRx) | [14_State_Management.md](./10_State_Management/14_State_Management.md) | 3h |
 | 15 | Testing | [15_Testing.md](./11_Testing/15_Testing.md) | 2h |
+| 16 | Angular Signals | [16_Signals.md](./12_Signals/16_Signals.md) | 2h |
+| 17 | Angular Material | [17_Angular_Material.md](./13_Angular_Material/17_Angular_Material.md) | 2h |
+| 18 | Content Projection | [18_Content_Projection.md](./14_Content_Projection/18_Content_Projection.md) | 1h |
+| 19 | Change Detection | [19_Change_Detection.md](./15_Change_Detection/19_Change_Detection.md) | 1.5h |
+| 20 | Standalone Components | [20_Standalone_Components.md](./16_Standalone_Components/20_Standalone_Components.md) | 1h |
+| 21 | Deployment | [21_Deployment.md](./17_Deployment/21_Deployment.md) | 1h |
 
-**Gesamtaufwand: ca. 28 Stunden**
+**Gesamtaufwand: ca. 36 Stunden**
 
 ---
 
 ## Empfohlene Lernreihenfolge
 
 ```
-Woche 1: Angular Grundlagen (01–03)
+Woche 1: Angular Grundlagen + Standalone (01–03, 20)
 Woche 2: Komponenten & Templates (04–05)
 Woche 3: Direktiven, Services, DI (06–07)
 Woche 4: Routing & Formulare (08–10)
 Woche 5: HTTP, RxJS, Pipes (11–12)
-Woche 6: Lifecycle, State, Testing (13–15)
+Woche 6: Lifecycle Hooks, Content Projection, Change Detection (13, 18–19)
+Woche 7: Signals, Angular Material (16–17)
+Woche 8: State Management, Testing, Deployment (14–15, 21)
 ```
 
 ---
@@ -71,3 +81,9 @@ Nach Abschluss dieses Lernplans kannst du:
 - ✅ Component Lifecycle Hooks korrekt verwenden
 - ✅ Grundlegendes State Management mit NgRx anwenden
 - ✅ Unit Tests für Angular-Komponenten und Services schreiben
+- ✅ Angular Signals für reaktiven State verwenden
+- ✅ Angular Material UI-Komponenten einsetzen
+- ✅ Content Projection mit ng-content erstellen
+- ✅ Change Detection verstehen und optimieren (OnPush)
+- ✅ Standalone Components ohne NgModule aufbauen
+- ✅ Eine Angular-App für die Produktion deployen
