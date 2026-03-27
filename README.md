@@ -34,33 +34,30 @@
 | 08 | Routing & Navigation | [08_Routing.md](./05_Routing/08_Routing.md) | 2h |
 | 09 | Template-driven Forms | [09_Template_Forms.md](./06_Formulare/09_Template_Forms.md) | 1.5h |
 | 10 | Reactive Forms | [10_Reactive_Forms.md](./06_Formulare/10_Reactive_Forms.md) | 2h |
-| 11 | HTTP Client & RxJS | [11_HTTP_RxJS.md](./07_HTTP_RxJS/11_HTTP_RxJS.md) | 3h |
+| 11 | HTTP Client & RxJS | [11_HTTP_RxJS.md](./07_HTTP_RxJS/11_HTTP_RxJS.md) | 4h |
 | 12 | Pipes | [12_Pipes.md](./08_Pipes/12_Pipes.md) | 1h |
 | 13 | Lifecycle Hooks | [13_Lifecycle_Hooks.md](./09_Lifecycle_Hooks/13_Lifecycle_Hooks.md) | 1h |
-| 14 | State Management (NgRx) | [14_State_Management.md](./10_State_Management/14_State_Management.md) | 3h |
-| 15 | Testing | [15_Testing.md](./11_Testing/15_Testing.md) | 2h |
-| 16 | Angular Signals | [16_Signals.md](./12_Signals/16_Signals.md) | 2h |
+| 14 | State Management (NgRx) | [14_State_Management.md](./10_State_Management/14_State_Management.md) | 4h |
+| 15 | Testing | [15_Testing.md](./11_Testing/15_Testing.md) | 3h |
+| 16 | Angular Signals | [16_Signals.md](./12_Signals/16_Signals.md) | 3h |
 | 17 | Angular Material | [17_Angular_Material.md](./13_Angular_Material/17_Angular_Material.md) | 2h |
 | 18 | Content Projection | [18_Content_Projection.md](./14_Content_Projection/18_Content_Projection.md) | 1h |
 | 19 | Change Detection | [19_Change_Detection.md](./15_Change_Detection/19_Change_Detection.md) | 1.5h |
 | 20 | Standalone Components | [20_Standalone_Components.md](./16_Standalone_Components/20_Standalone_Components.md) | 1h |
-| 21 | Deployment | [21_Deployment.md](./17_Deployment/21_Deployment.md) | 1h |
+| 21 | Deployment | [21_Deployment.md](./17_Deployment/21_Deployment.md) | 1.5h |
 
-**Gesamtaufwand: ca. 36 Stunden**
+**Gesamtaufwand: ca. 40 Stunden (5 Tage à 8h)**
 
 ---
 
 ## Empfohlene Lernreihenfolge
 
 ```
-Woche 1: Angular Grundlagen + Standalone (01–03, 20)
-Woche 2: Komponenten & Templates (04–05)
-Woche 3: Direktiven, Services, DI (06–07)
-Woche 4: Routing & Formulare (08–10)
-Woche 5: HTTP, RxJS, Pipes (11–12)
-Woche 6: Lifecycle Hooks, Content Projection, Change Detection (13, 18–19)
-Woche 7: Signals, Angular Material (16–17)
-Woche 8: State Management, Testing, Deployment (14–15, 21)
+Tag 1: Angular Grundlagen + Standalone + Komponenten (01–04)
+Tag 2: Templates, Direktiven, Services/DI (05–07)
+Tag 3: Routing, Formulare, HTTP/RxJS (08–11)
+Tag 4: Pipes, Lifecycle, State Management (12–14)
+Tag 5: Testing, Signals, Angular Material, Content Projection, Change Detection, Deployment (15–19, 21)
 ```
 
 ---
