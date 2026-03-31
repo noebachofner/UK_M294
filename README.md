@@ -45,22 +45,20 @@
 | 19 | Change Detection | [19_Change_Detection.md](./15_Change_Detection/19_Change_Detection.md) | 1.5h |
 | 20 | Standalone Components | [20_Standalone_Components.md](./16_Standalone_Components/20_Standalone_Components.md) | 1h |
 | 21 | Deployment | [21_Deployment.md](./17_Deployment/21_Deployment.md) | 1h |
+| 22 | Prüfungsvorbereitung (Gesamtübersicht) | [22_Pruefungsvorbereitung.md](./18_Pruefungsvorbereitung/22_Pruefungsvorbereitung.md) | 4h |
 
-**Gesamtaufwand: ca. 36 Stunden**
+**Gesamtaufwand: ca. 40 Stunden**
 
 ---
 
 ## Empfohlene Lernreihenfolge
 
 ```
-Woche 1: Angular Grundlagen + Standalone (01–03, 20)
-Woche 2: Komponenten & Templates (04–05)
-Woche 3: Direktiven, Services, DI (06–07)
-Woche 4: Routing & Formulare (08–10)
-Woche 5: HTTP, RxJS, Pipes (11–12)
-Woche 6: Lifecycle Hooks, Content Projection, Change Detection (13, 18–19)
-Woche 7: Signals, Angular Material (16–17)
-Woche 8: State Management, Testing, Deployment (14–15, 21)
+Tag 1: Angular Grundlagen + Standalone + Komponenten & Templates (01–05, 20)
+Tag 2: Direktiven, Services, Routing & Formulare (06–10)
+Tag 3: HTTP, RxJS, Pipes, Lifecycle Hooks (11–13)
+Tag 4: Angular Material, Signals, Content Projection, Change Detection (16–19)
+Tag 5: State Management, Testing, Deployment, Prüfungsvorbereitung (14–15, 21–22)
 ```
 
 ---
@@ -87,3 +85,6 @@ Nach Abschluss dieses Lernplans kannst du:
 - ✅ Change Detection verstehen und optimieren (OnPush)
 - ✅ Standalone Components ohne NgModule aufbauen
 - ✅ Eine Angular-App für die Produktion deployen
+- ✅ Login und Logout über Keycloak implementieren
+- ✅ JWT-Token auslesen, zwischenspeichern und in HTTP-Requests verwenden
+- ✅ Routes mit Guards schützen und rollenbasierte UI umsetzen
